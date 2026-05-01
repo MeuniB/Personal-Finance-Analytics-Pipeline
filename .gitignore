@@ -1,0 +1,13 @@
+# Ignore data files
+*.csv
+*.xlsx
+*.json
+
+# Ignore SQLite databases
+*.db
+*.sqlite
+
+# Ignore Python environment and cache
+__pycache__/
+venv/
+.env
